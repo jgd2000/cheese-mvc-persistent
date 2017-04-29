@@ -56,5 +56,5 @@ public class AddMenuItemForm {
     public Menu getMenu() {
         return menu;
     }
-   
+
 }
